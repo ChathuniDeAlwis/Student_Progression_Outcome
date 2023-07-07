@@ -1,13 +1,3 @@
-# I declare that my work contains no examples of misconduct, such as plagiarism, or collusion. 
-# Any code taken from other sources is referenced within my code solution. 
-# Student ID:20220837
-# UOW number : w1954081
-# Date: 14.12.2022
-
-#Author name : T.M.Chathuni Nithara De Alwis
-# Date: 14.12.2022
-#Part 1, Part 2 , Part 3 and Part 4
-
 #declaring variables
 Pass = 0
 Defer = 0
