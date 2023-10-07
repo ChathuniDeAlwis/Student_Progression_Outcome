@@ -1,2 +1,2 @@
-# Student_Progression_Outcome
+# Student_Progression_Outcome_Program
 I created this program to predict progression outcomes at the end of each academic year using Python for my University project...
